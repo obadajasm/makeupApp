@@ -1,0 +1,18 @@
+{
+    "cSpell.enableFiletypes": [
+        "dart"
+    ],
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "spellright.parserByClass": {
+        "dart": {
+            "parser": "code"
+        }
+    }
+}
